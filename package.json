@@ -1,0 +1,22 @@
+{
+  "name": "hacker-news-ten-random-stories-implementations",
+  "description": "A number of approaches to solving a small challenge from a job ad.",
+  "version": "0.0.114",
+  "dependencies": {
+    "timeago.js": "3.0.1",
+    "react-dom": "15.5.3",
+    "react-apollo": "1.4.2",
+    "react": "15.5.3",
+    "lodash": "4.17.4",
+    "freactal": "1.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
